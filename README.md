@@ -55,6 +55,17 @@ python expense_tracker.py
 7. Visualize expenses
 8. Save and exit
 
+## Team Roles & Tasks
+
+This project was initially developed collaboratively with another group, where I learned about team-based coding practices and Git workflows. When the original group finished early, I decided to rebuild the project independently to apply what I learned and ensure I gained hands-on experience with all components.
+
+**Development responsibilities covered:**
+- Data entry and validation (add expense functionality)
+- Analysis and calculations (total expenses, breakdowns)
+- Data management (filtering, deletion, viewing)
+- Extension features (summaries and visualizations)
+- Documentation and testing
+
 ## Project Functionalities
 
 **1. Adding Expenses**
@@ -143,7 +154,27 @@ expense/
 - Solution: Python datetime module, YYYY-MM-DD standard format
 
 **Challenge 4: Category Management**
-- Problem: Inconsistent category capitalization
+- PReflection on Collaborative Coding
+
+Working with my initial group taught me valuable lessons about collaborative development:
+
+**What I learned from collaboration:**
+- Git workflows (branches, pull requests, merge conflicts)
+- Code review practices and constructive feedback
+- Dividing tasks and coordinating work
+- Communication importance in team projects
+
+**Why I rebuilt independently:**
+When the original group completed the project early, I recognized an opportunity to solidify my understanding by implementing everything myself. This allowed me to:
+- Gain hands-on experience with every feature
+- Understand the full codebase deeply
+- Practice problem-solving independently
+- Apply collaborative coding principles I learned
+
+**Did I enjoy collaborative coding?**
+Yes, but with important caveats. Working with others provided learning opportunities and exposed me to different approaches. However, rebuilding independently gave me confidence that I truly understood the material rather than just contributing to isolated features. The ideal approach combines both: collaborate to learn best practices, then independently practice to ensure mastery.
+
+## roblem: Inconsistent category capitalization
 - Solution: .title() method for standardization
 
 **Challenge 5: User Experience**
