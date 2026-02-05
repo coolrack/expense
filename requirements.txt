@@ -1,0 +1,8 @@
+# Expense Tracker - Python Dependencies
+
+# Data visualization library for creating charts and graphs
+# Required for extension features (visualize_expenses function)
+matplotlib>=3.5.0
+
+# Note: Core features work with Python standard library only
+# matplotlib is only needed for the visualization extension feature
